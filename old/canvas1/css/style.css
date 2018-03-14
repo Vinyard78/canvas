@@ -1,0 +1,12 @@
+#canvas {
+	border: solid 1px black;
+}
+
+#btn {
+	width: 5rem;
+    height: 5rem;
+    background: lightgrey;
+    border-radius: 1rem;
+    display: block;
+    outline-style: none;
+}
